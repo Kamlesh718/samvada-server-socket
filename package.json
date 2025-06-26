@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.2",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server"
+  },
+  "name": "samvada-server-socket",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
